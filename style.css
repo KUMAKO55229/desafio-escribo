@@ -30,20 +30,21 @@ button {
     border-radius: 3px;
 }
 
-.botaoCalcular {
-    margin: auto;
-}
-
 .Dev {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-.verde {
-    background-color: green;
+.IntegerDiv {
+    margin-left: 2.5%;
 }
 
-.vermelho {
-    background-color: red;
+.IntegerButton {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Integerlabel {
+    margin-top: 10px;
 }
