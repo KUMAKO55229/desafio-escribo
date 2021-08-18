@@ -1,0 +1,49 @@
+* {
+    font-family: arial;
+}
+
+.showingSummation {
+    font-weight: bold;
+    font-size: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+.divSummation {
+    border: solid 1px #838280;
+    background-color: #f8f9fa;
+    width: 95%;
+    margin: auto;
+    margin-top: 5px;
+    height: 150px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+button {
+    display: block;
+    height: 30px;
+    width: 90px;
+    border: solid 1px #9c9c9c;
+    background-color: #f8f9fa;
+    border-radius: 3px;
+}
+
+.botaoCalcular {
+    margin: auto;
+}
+
+.Dev {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.verde {
+    background-color: green;
+}
+
+.vermelho {
+    background-color: red;
+}
